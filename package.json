@@ -48,6 +48,7 @@
     "dagre": "^0.8.5",
     "dayjs": "^1.11.13",
     "dotenv-webpack": "^8.0.1",
+    "lodash": "^4.17.23",
     "ng2-pdf-viewer": "^10.4.0",
     "ngx-clipboard": "^16.0.0",
     "ngx-scrollbar": "^13.0.3",
