@@ -37,7 +37,7 @@
     "angular-file": "^4.0.2",
     "angular-split": "^20.0.0",
     "bootstrap": "^5.3.3",
-    "cronstrue": "^2.61.0",
+    "cronstrue": "^3.9.0",
     "dagre": "^0.8.5",
     "dayjs": "^1.11.13",
     "dotenv-webpack": "^8.0.1",
