@@ -32,7 +32,7 @@
     "@ngx-translate/core": "^15.0.0",
     "@popperjs/core": "^2.11.8",
     "@swimlane/ngx-graph": "^11.0.0",
-    "ag-grid-angular": "^31.3.4",
+    "ag-grid-angular": "^35.0.1",
     "ag-grid-community": "^31.3.4",
     "angular-file": "^4.0.2",
     "angular-split": "^20.0.0",
