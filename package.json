@@ -55,7 +55,7 @@
     "@angular-builders/custom-esbuild": "^20.0.0",
     "@angular-builders/custom-webpack": "^20.0.0",
     "@angular/build": "^20.3.22",
-    "@angular/cli": "~20.3.22",
+    "@angular/cli": "~21.2.6",
     "@angular/compiler-cli": "^20.3.18",
     "@angular/localize": "^20.3.18",
     "@types/dagre": "^0.7.49",
